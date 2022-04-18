@@ -1,0 +1,26 @@
+# ninja log v5
+274	324	1650268025162944630	_section9_challenge	ef3b353ec8edadf0
+0	274	1650268025110943594	CMakeFiles/_section9_challenge.dir/main.cpp.o	4166311e0151ca3c
+0	17	1650270622790840393	build.ninja	93555d6cddefd353
+0	343	1650270783606510179	CMakeFiles/_section9_challenge.dir/main.cpp.o	4166311e0151ca3c
+343	394	1650270783654511276	_section9_challenge	ef3b353ec8edadf0
+1	346	1650271054792720998	CMakeFiles/_section9_challenge.dir/main.cpp.o	4166311e0151ca3c
+346	391	1650271054836722007	_section9_challenge	ef3b353ec8edadf0
+0	348	1650271246095795704	CMakeFiles/_section9_challenge.dir/main.cpp.o	4166311e0151ca3c
+348	394	1650271246139796402	_section9_challenge	ef3b353ec8edadf0
+0	356	1650271306124768811	CMakeFiles/_section9_challenge.dir/main.cpp.o	4166311e0151ca3c
+356	407	1650271306176769670	_section9_challenge	ef3b353ec8edadf0
+1	343	1650271400070367483	CMakeFiles/_section9_challenge.dir/main.cpp.o	4166311e0151ca3c
+343	394	1650271400118368321	_section9_challenge	ef3b353ec8edadf0
+0	350	1650271478183757274	CMakeFiles/_section9_challenge.dir/main.cpp.o	4166311e0151ca3c
+350	399	1650271478231758143	_section9_challenge	ef3b353ec8edadf0
+1	342	1650271716660262074	CMakeFiles/_section9_challenge.dir/main.cpp.o	4166311e0151ca3c
+342	390	1650271716708263014	_section9_challenge	ef3b353ec8edadf0
+1	360	1650272285911950609	CMakeFiles/_section9_challenge.dir/main.cpp.o	4166311e0151ca3c
+360	416	1650272285963951712	_section9_challenge	ef3b353ec8edadf0
+1	345	1650272383174020156	CMakeFiles/_section9_challenge.dir/main.cpp.o	4166311e0151ca3c
+345	391	1650272383218021095	_section9_challenge	ef3b353ec8edadf0
+0	355	1650272430643034830	CMakeFiles/_section9_challenge.dir/main.cpp.o	4166311e0151ca3c
+355	404	1650272430691035858	_section9_challenge	ef3b353ec8edadf0
+1	352	1650272473371950477	CMakeFiles/_section9_challenge.dir/main.cpp.o	4166311e0151ca3c
+352	401	1650272473419951507	_section9_challenge	ef3b353ec8edadf0
